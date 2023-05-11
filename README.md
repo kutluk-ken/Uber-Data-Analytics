@@ -29,6 +29,14 @@ More info about dataset can be found here:
 ## Data Model
 <img width="1151" alt="Screen Shot 2023-05-11 at 2 57 44 PM" src="https://github.com/kutluk-ken/Uber-Data-Analytics/assets/56012015/71ae46ba-09a0-477c-93b9-b5c70fabae79">
 
+## ETL
+<img width="1491" alt="Screen Shot 2023-05-11 at 3 13 21 PM" src="https://github.com/kutluk-ken/Uber-Data-Analytics/assets/56012015/02163eeb-2bbc-475a-9f85-84496abf3f67">
+
+## BigQuery
+<img width="1505" alt="Screen Shot 2023-05-11 at 3 14 07 PM" src="https://github.com/kutluk-ken/Uber-Data-Analytics/assets/56012015/93d9b15c-fad4-4443-b303-5c3320f153fa">
+
+
+
 ## To do
 - Increase data file size: Add more rows to the data file to increase the data size beyond 100k rows. (Also change the format from csv to parquet)
 - ETL process using Airflow
