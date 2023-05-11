@@ -30,6 +30,7 @@ More info about dataset can be found here:
 <img width="1151" alt="Screen Shot 2023-05-11 at 2 57 44 PM" src="https://github.com/kutluk-ken/Uber-Data-Analytics/assets/56012015/71ae46ba-09a0-477c-93b9-b5c70fabae79">
 
 ## ETL
+Using mordern data pipeline tool for transforming and integrating data.
 <img width="1491" alt="Screen Shot 2023-05-11 at 3 13 21 PM" src="https://github.com/kutluk-ken/Uber-Data-Analytics/assets/56012015/02163eeb-2bbc-475a-9f85-84496abf3f67">
 
 ## BigQuery
