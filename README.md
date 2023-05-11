@@ -39,5 +39,6 @@ Using mordern data pipeline tool for transforming and integrating data.
 
 
 ## To do
-- Increase data file size: Add more rows to the data file to increase the data size beyond 100k rows. (Also change the format from csv to parquet)
-- ETL process using Airflow
+- Looker dashboard.
+- Increase data file size: Add more rows to the data file to increase the data size beyond 100k rows. (Also change the format from csv to parquet).
+- ETL process using Airflow.
