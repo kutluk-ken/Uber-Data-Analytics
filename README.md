@@ -41,4 +41,8 @@ Using mordern data pipeline tool for transforming and integrating data.
 ## To do
 - Looker dashboard.
 - Increase data file size: Add more rows to the data file to increase the data size beyond 100k rows. (Also change the format from csv to parquet).
+- BigQuery
+  - Find the top 10 pickup loactions based on the number of trips.
+  - Find the total number of trips by passenger count.
+  - Find the average fare amount by hour of the day.
 - ETL process using Airflow.
