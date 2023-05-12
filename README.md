@@ -45,7 +45,7 @@ Using mordern data pipeline tool for transforming and integrating data.
 
 ## Looker Studio - [Uber dashboard](https://lookerstudio.google.com/reporting/83e5d55c-6ba2-414b-80c9-b1243dbea0eb)
 
-<img width="1001" alt="Screen Shot 2023-05-12 at 5 22 20 PM" src="https://github.com/kutluk-ken/Uber-Data-Analytics/assets/56012015/0a7dfcd1-076e-4d5f-a02e-89e72144c52a">
+<img width="1002" alt="Screen Shot 2023-05-12 at 5 39 16 PM" src="https://github.com/kutluk-ken/Uber-Data-Analytics/assets/56012015/9ac18b11-7285-43c9-b391-2ee5979cc3dd">
 
 
 ## To do
