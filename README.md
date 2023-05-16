@@ -1,4 +1,4 @@
-# Uber Data Analytics Modern Data Engineering
+# Uber Data Analytics | Modern Data Engineering
 
 ##### My first end to end modern data engineering project GCP project
 
